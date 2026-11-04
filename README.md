@@ -52,9 +52,3 @@ npm install
 # Start the Expo development server
 npx expo start
 ```
-
----
-
-## 📄 License
-Copyright © 2026 Nayan Kumar. All rights reserved.  
-This software and source code are proprietary. Publicly available for showcase, portfolio evaluation, and review purposes only. Commercial use or reproduction is prohibited without written permission.

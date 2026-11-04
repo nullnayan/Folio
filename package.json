@@ -32,6 +32,5 @@
     "ios": "expo run:ios",
     "web": "expo start --web"
   },
-  "license": "UNLICENSED",
   "private": true
 }
